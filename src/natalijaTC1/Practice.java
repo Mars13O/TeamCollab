@@ -7,4 +7,6 @@ public class Practice {
     // we got this!
 
     // good luck
+
+    // beautiful day
 }
