@@ -2,7 +2,7 @@ package utils;
 
 public class TC1 {
     // new method
-    void method1(){
+   public static void method1(){
 
     }
 }
