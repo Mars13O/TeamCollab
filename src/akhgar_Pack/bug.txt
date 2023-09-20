@@ -1,0 +1,4 @@
+
+What is do you do when you find a bug?
+
+how do you approch to report a bug?
